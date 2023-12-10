@@ -1,0 +1,22 @@
+.topnav
+{
+	background-color: black;
+	overflow: hidden;
+	opacity: 0.75;
+}
+
+.topnav a
+{
+	float: left;
+	color: white;
+	padding: 10px 10px;
+}
+
+.main
+{
+	background-color: black;
+	color: white;
+	overflow: hidden;
+	padding: 10px;
+	opacity: 0.75;
+}
