@@ -14,9 +14,8 @@
 
 .main
 {
-	background-color: black;
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.75);
 	color: white;
 	overflow: hidden;
 	padding: 10px;
-	opacity: 0.75;
 }
